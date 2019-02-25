@@ -1,7 +1,9 @@
-# source-map-bug-tracker
-Personal bug tracker for Source Engine map releases
+# Bug tracker for my Source Engine maps
+
+Tracking any issues and feature changes for my Source Engine map projects.
 
 Currently tracked maps:
-* ze_bioshock_v6_3
-* ze_bioshock_v6_2_csgo7
-* ze_illya_b3
+* ze_bioshock
+* ze_bioshock (cs:go)
+* ze_illya
+* ze_candy_star
