@@ -6,4 +6,5 @@ Currently tracked maps:
 * ze_bioshock
 * ze_bioshock (cs:go)
 * ze_illya
+* ze_illya (cs:go)
 * ze_candy_star
