@@ -8,3 +8,6 @@ Currently tracked maps:
 * ze_illya
 * ze_illya (cs:go)
 * ze_candy_star
+* ze_driveable_buses
+* zs_snowcap_lodge
+* zs_lolas_gas_station
